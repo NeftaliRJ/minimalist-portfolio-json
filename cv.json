@@ -1,190 +1,221 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Neftali Ramos Jimenez",
+    "label": "Software Engineer con más de 5 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "neftali.ramosj@gmail.com",
+    "phone": "+52 9981012640",
+    "url": "https://neftalirj.com",
+    "summary": "Especialista en desarrollo de software con +5 años de experiencia, enfocado en soluciones backend y full stack para sectores clave como salud, turismo y automotriz. Expertise en tecnologías como JavaScript, TypeScript y Python, con un fuerte enfoque en optimización y calidad de código. Apasionado por la innovación y la colaboración en equipos globales, impulsando mejoras significativas en rendimiento y eficiencia.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "77500",
+      "city": "Cancun",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "neftali-ramos-jimenez",
+        "url": "https://www.linkedin.com/in/%F0%9F%8C%8Cneftali-ramos-jimenez-03109518a/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "neftarj",
+        "url": "https://github.com/NeftaliRJ"
+      },
+      {
+        "network": "Gitlab",
+        "username": "neftali.ramosj",
+        "url": "https://gitlab.com/neftali.ramosj"
+      },
+      {
+        "network": "Medium",
+        "username": "neftali.ramosj",
+        "url": "https://medium.com/@neftali.ramosj"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "neftali-ramos",
+        "url": "https://stackoverflow.com/users/15899842/neftali-ramos"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Wizeline",
+      "position": "Software Engineer",
+      "url": "https://www.wizeline.com/es/",
+      "startDate": "2021-09-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Colaboro con clientes internacionales, enfocándome en la adopción de nuevas tecnologías y el desarrollo de sistemas múltiples. Trabajando en equipos globales, aporto en diversas áreas como desarrollo Front-end, Back-end, DevOps. Destaco por crear una herramienta de automatización que mejoró en un 24% la rapidez en la resolución de tickets de soporte, optimizando significativamente el proceso de atención al cliente y la eficiencia operativa.",
+      "highlights": []
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Kavak",
+      "position": "Mid Software Engineer",
+      "url": "https://www.kavak.com/mx",
+      "startDate": "2021-07-01",
+      "endDate": "2022-11-01",
+      "summary": "Como parte del equipo de desarrollo, jugué un papel fundamental en la migración y actualización del sistema logístico de autos, poniendo especial énfasis en la confiabilidad de la información, su integridad y rapidez. Aunque contratado inicialmente como Desarrollador Backend, mi rol se expandió hacia tareas Full Stack, permitiéndome aportar significativamente en varias áreas del proyecto.",
+      "highlights": []
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Dirección General de Turismo Cancún",
+      "position": "Full Stack Developer",
+      "startDate": "2021-01-01",
+      "endDate": "2021-07-01",
+      "summary": "Desempeñé un papel clave en la creación desde cero de la página de turismo del estado de Quintana Roo. Destaqué en la automatización de procesos y en la migración de sistemas obsoletos a soluciones tecnológicas más avanzadas. Mis responsabilidades incluyeron la construcción de requisitos técnicos, la automatización de tareas mediante web scraping con Python, y la creación de APIs utilizando NodeJS con GraphQL, contribuyendo significativamente a la modernización y eficiencia de los sistemas de información turística.",
+      "highlights": []
+    },
+    {
+      "name": "Mi expediente Medico",
+      "position": "Backend Developer",
+      "startDate": "2019-08-01",
+      "endDate": "2021-01-01",
+      "summary": "Contribuí al desarrollo de software médico integral, destacándome por mi alta productividad en la finalización de tareas. Formé parte de un equipo que desarrolló nuevos módulos enfocados en el área de urgencias, utilizando PHP 7 y JavaScript. Participé en la migración de servicios de PHP a tecnologías avanzadas y mentoría a nuevos integrantes, además de involucrarme en la refactorización de código legacy, desarrollo de API con Node.js y TypeScript, contribuyendo a la mejora continua del software y la eficiencia del equipo.",
+      "highlights": []
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Caribe",
+      "url": "https://www.unicaribe.mx/",
+      "area": "Ingeniero en Datos e Inteligencia Organizacional",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-02",
+      "endDate": "2021-01-02",
+      "score": "9.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "keywords": []
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "NodeJS",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "NestJs",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": []
     }
   ],
   "languages": [
@@ -197,79 +228,67 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Payli",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
+      "description": "Payli agiliza y asegura las transacciones inmobiliarias de alquiler. Simplificamos el proceso y brindamos más seguridad a las empresas del sector inmobiliario.",
+      "highlights": [],
+      "url": "https://es.linkedin.com/company/payli-es"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
+      "name": "Medatry",
+      "isActive": false,
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "highlights": [],
+      "url": "https://medatry.com/"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "name": "Askin Real Estate",
+      "isActive": false,
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "highlights": [],
+      "url": "https://new.askinrealestate.com/"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "name": "Palma Real Properties",
+      "isActive": false,
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "highlights": [],
+      "url": "https://palmarealtors.com/"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "name": "Poblana Muebleria",
+      "isActive": false,
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "highlights": [],
+      "url": "https://lapoblanamuebleria.com/"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Secorse",
+      "isActive": false,
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "highlights": [],
+      "url": "https://www.secorse.com.mx/"
+    },
+    {
+      "name": "Procobrar",
+      "isActive": false,
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "highlights": [],
+      "url": "https://www.procobrar.com.mx/"
     }
   ]
 }
