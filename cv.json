@@ -281,14 +281,16 @@
       "isActive": false,
       "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
       "highlights": [],
-      "url": "https://www.secorse.com.mx/"
+      "url": "https://www.secorse.com.mx/",
+      "github": null
     },
     {
       "name": "Procobrar",
       "isActive": false,
       "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
       "highlights": [],
-      "url": "https://www.procobrar.com.mx/"
+      "url": "https://www.procobrar.com.mx/",
+      "github": null
     }
   ]
 }
