@@ -1,190 +1,221 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Neftali Ramos Jimenez",
+    "label": "Software Engineer with over 5 years of experience",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "email": "neftali.ramosj@gmail.com",
+    "phone": "+52 9981012640",
+    "url": "https://neftalirj.com",
+    "summary": "Software development specialist with +5 years of experience, focused on backend and full stack solutions for key sectors such as health, tourism, and automotive. Expertise in technologies like JavaScript, TypeScript, and Python, with a strong focus on optimization and code quality. Passionate about innovation and collaboration in global teams, driving significant improvements in performance and efficiency.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "77500",
+      "city": "Cancun",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "neftali-ramos-jimenez",
+        "url": "https://www.linkedin.com/in/%F0%9F%8C%8Cneftali-ramos-jimenez-03109518a/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "neftarj",
+        "url": "https://github.com/NeftaliRJ"
+      },
+      {
+        "network": "Gitlab",
+        "username": "neftali.ramosj",
+        "url": "https://gitlab.com/neftali.ramosj"
+      },
+      {
+        "network": "Medium",
+        "username": "neftali.ramosj",
+        "url": "https://medium.com/@neftali.ramosj"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "neftali-ramos",
+        "url": "https://stackoverflow.com/users/15899842/neftali-ramos"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Wizeline",
+      "position": "Software Engineer",
+      "url": "https://www.wizeline.com/",
+      "startDate": "2021-09-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "I collaborate with international clients, focusing on the adoption of new technologies and the development of multiple systems. Working in global teams, I contribute in various areas such as Front-end, Back-end, DevOps. I am noted for creating an automation tool that improved the speed of support ticket resolution by 24%, significantly optimizing customer service processes and operational efficiency.",
+      "highlights": []
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Kavak",
+      "position": "Mid Software Engineer",
+      "url": "https://www.kavak.com/mx",
+      "startDate": "2021-07-01",
+      "endDate": "2022-11-01",
+      "summary": "As part of the development team, I played a key role in the migration and update of the car logistics system, with special emphasis on the reliability of information, its integrity, and speed. Although initially hired as a Backend Developer, my role expanded to Full Stack tasks, allowing me to significantly contribute in various areas of the project.",
+      "highlights": []
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Dirección General de Turismo Cancún",
+      "position": "Full Stack Developer",
+      "startDate": "2021-01-01",
+      "endDate": "2021-07-01",
+      "summary": "I played a key role in creating the tourism page for the state of Quintana Roo from scratch. I stood out in the automation of processes and in the migration of obsolete systems to more advanced technological solutions. My responsibilities included building technical requirements, automating tasks through web scraping with Python, and creating APIs using NodeJS with GraphQL, significantly contributing to the modernization and efficiency of tourist information systems.",
+      "highlights": []
+    },
+    {
+      "name": "Mi expediente Medico",
+      "position": "Backend Developer",
+      "startDate": "2019-08-01",
+      "endDate": "2021-01-01",
+      "summary": "I contributed to the development of comprehensive medical software, standing out for my high productivity in completing tasks. I was part of a team that developed new modules focused on the emergency area, using PHP 7 and JavaScript. I participated in the migration of services from PHP to advanced technologies and mentored new members, as well as engaging in legacy code refactoring, API development with Node.js and TypeScript, contributing to continuous software improvement and team efficiency.",
+      "highlights": []
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Caribe",
+      "url": "https://www.unicaribe.mx/",
+      "area": "Engineering in Data and Organizational Intelligence",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-02",
+      "endDate": "2021-01-02",
+      "score": "9.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description..."
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "keywords": []
     },
     {
       "name": "React",
       "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "NodeJS",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "NestJs",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": []
     }
   ],
   "languages": [
@@ -197,79 +228,83 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Payli",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": [
-        "Choose your own adventure",
-        "In progress"
-      ],
-      "url": "https://mars.codes"
+      "description": "Payli streamlines and secures rental real estate transactions. We simplify the process and provide more security to the real estate sector companies.",
+      "highlights": ["Co-Founder"],
+      "url": "https://www.linkedin.com/company/payli-es"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
+      "name": "Medatry",
+      "isActive": false,
+      "description": "Next-generation medical software for doctors and patients, focused on maintaining your electronic medical record.",
+      "highlights": [],
+      "url": "https://medatry.com/"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
+      "name": "Askin Real Estate",
+      "isActive": false,
+      "description": "Property management platform in Mexico, focused on the sale and rental of properties in the Riviera Maya.",
+      "highlights": ["Migration from PHP to NodeJS"],
+      "url": "https://new.askinrealestate.com/"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "name": "Palma Real Properties",
+      "isActive": false,
+      "description": "CRM creation for a real estate company in Cancun, Mexico focused on selling properties in the Riviera Maya.",
+      "highlights": ["Saved on operating costs", "Increased efficiency by 20%"],
+      "url": "https://palmarealtors.com/"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "name": "SoyCancunTours",
+      "isActive": false,
+      "description": "Tourist page focused on booking and managing tours in Cancun and the Riviera Maya.",
+      "highlights": [],
+      "url": "https://soycancuntours.com/"
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Sensor",
+      "isActive": false,
+      "description": "Machine Learning tool that helps you detect signs of corruption in purchasing processes in Coahuila more quickly using public information.",
+      "highlights": [],
+      "url": "https://sensor.neftalirj.com/"
+    },
+    {
+      "name": "Poblana Muebleria",
+      "isActive": false,
+      "description": "Digitalization project for a furniture store in Puebla, Mexico, focused on selling furniture and home decor.",
+      "highlights": [],
+      "url": "https://lapoblanamuebleria.com/"
+    },
+    {
+      "name": "Secorse",
+      "isActive": false,
+      "description": "Software that manages and recovers portfolios in Mexico backed with more than 20 years of experience.",
+      "highlights": [],
+      "url": "https://www.secorse.com.mx/",
+      "github": null
+    },
+    {
+      "name": "Procobrar",
+      "isActive": false,
+      "description": "Collection service software in Mexico, focused on the recovery of overdue portfolios.",
+      "highlights": [],
+      "url": "https://www.procobrar.com.mx/",
+      "github": null
     }
   ]
 }

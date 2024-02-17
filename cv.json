@@ -245,41 +245,58 @@
       "name": "Payli",
       "isActive": true,
       "description": "Payli agiliza y asegura las transacciones inmobiliarias de alquiler. Simplificamos el proceso y brindamos más seguridad a las empresas del sector inmobiliario.",
-      "highlights": [],
+      "highlights": ["Co-Founder"],
       "url": "https://es.linkedin.com/company/payli-es"
     },
     {
       "name": "Medatry",
       "isActive": false,
-      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico.",
       "highlights": [],
       "url": "https://medatry.com/"
     },
     {
       "name": "Askin Real Estate",
       "isActive": false,
-      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
-      "highlights": [],
+      "description": "Plataforma de administración de propiedades en Mexico, enfocada en la venta y renta de propiedades en la Riviera Maya.",
+      "highlights": ["Migracion de PHP a NodeJS"],
       "url": "https://new.askinrealestate.com/"
     },
     {
       "name": "Palma Real Properties",
       "isActive": false,
-      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
-      "highlights": [],
+      "description": "Creacion de CRM para una inmobiliaria en Cancun, Mexico enfocado en la venta de propiedades en la Riviera Maya.",
+      "highlights": [
+        "Ahorre en costes de operación",
+        "Aumente la eficiencia en un 20%"
+      ],
       "url": "https://palmarealtors.com/"
+    },
+    {
+      "name": "SoyCancunTours",
+      "isActive": false,
+      "description": "Pagina Turistica enfocada en la reserva y administracion de tours en Cancun y la Riviera Maya.",
+      "highlights": [],
+      "url": "https://soycancuntours.com/"
+    },
+    {
+      "name": "Sensor",
+      "isActive": false,
+      "description": "Herramienta de Machine Learning que te ayuda a detectar indicios de corrupción en los procesos de compra en Coahuila de una manera más rápida usando información pública.",
+      "highlights": [""],
+      "url": "https://sensor.neftalirj.com/"
     },
     {
       "name": "Poblana Muebleria",
       "isActive": false,
-      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "description": "Proyecto de Digitalización de una muebleria en Puebla, Mexico, enfocado en la venta de muebles y decoración para el hogar.",
       "highlights": [],
       "url": "https://lapoblanamuebleria.com/"
     },
     {
       "name": "Secorse",
       "isActive": false,
-      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "description": "Software que administra y recupera carteras en Mexico respaldado con más de 20 años de experiencia.",
       "highlights": [],
       "url": "https://www.secorse.com.mx/",
       "github": null
@@ -287,7 +304,7 @@
     {
       "name": "Procobrar",
       "isActive": false,
-      "description": "Software médico de última generación para doctores y pacientes, enfocado en martener tu expediente medico electronico",
+      "description": "Software de servicio de cobranza en Mexico, enfocado en la recuperación de carteras vencidas.",
       "highlights": [],
       "url": "https://www.procobrar.com.mx/",
       "github": null
